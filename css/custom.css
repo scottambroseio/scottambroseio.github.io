@@ -8,17 +8,6 @@
     clear: both;
 }
 
-.technology {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-}
-
-.technology img {
-    width: 30%;
-    margin: 2px auto;
-}
-
 .copyright {
     float: right;
     line-height: 32px;
